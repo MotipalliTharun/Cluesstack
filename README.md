@@ -167,9 +167,7 @@ web3Store.on(() => {
 - Safari (latest)
 - Requires Web3 wallet extension for full functionality
 
-## 📄 License
 
-[Your License Here]
 
 ## 🤝 Contributing
 
@@ -177,7 +175,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-[Your Contact Information]
+motipallitharun@gmail.com
 
 ---
 
